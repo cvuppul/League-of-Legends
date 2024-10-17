@@ -1,1 +1,1 @@
-This is a game to be `played` 🎮
+This is a game to be `played` 🎮.
